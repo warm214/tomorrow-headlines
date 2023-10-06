@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tomorrow-headlines.iml" filepath="$PROJECT_DIR$/tomorrow-headlines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomorrow-headlines-common/tomorrow-headlines-common.iml" filepath="$PROJECT_DIR$/tomorrow-headlines-common/tomorrow-headlines-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomorrow-headlines-model/tomorrow-headlines-model.iml" filepath="$PROJECT_DIR$/tomorrow-headlines-model/tomorrow-headlines-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomorrow-headlines-service/tomorrow-headlines-service.iml" filepath="$PROJECT_DIR$/tomorrow-headlines-service/tomorrow-headlines-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomorrow-headlines-utils/tomorrow-headlines-utils.iml" filepath="$PROJECT_DIR$/tomorrow-headlines-utils/tomorrow-headlines-utils.iml" />
+    </modules>
+  </component>
+</project>
